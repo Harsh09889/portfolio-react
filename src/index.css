@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;0,700;0,900;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
+*{
+    color:ghostwhite;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E9D8C4;
+}
+
+@layer base{
+    li{
+        @apply p-4
+
+    }
+
+    button{
+        @apply border hover:bg-transparent 
+    }
+}
+
