@@ -54,39 +54,57 @@ const ExperiencesData = [
 const SkillsData = [
   {
 
-    title: 'Web Developer',
+    title: 'HTML5',
     sitare: 5,
     key: 1
   },
   {
 
-    title: 'Web Developer',
+    title: 'CSS3',
     sitare: 5,
     key: 2
   },
   {
 
-    title: 'Web Developer',
-    sitare: 4,
+    title: 'JAVASCRIPT',
+    sitare: 5,
     key: 3
   },
   {
 
-    title: 'Web Developer',
-    sitare: 3,
+    title: 'JAVA',
+    sitare: 5,
     key: 4
   },
   {
 
-    title: 'Web Developer',
+    title: 'PYTHON',
     sitare: 5,
     key: 5
   },
   {
 
-    title: 'Web Developer',
+    title: 'C++',
     sitare: 5,
     key: 6
+  },
+  {
+
+    title: 'REACT',
+    sitare: 4,
+    key: 7
+  },
+  {
+
+    title: 'TAILWIND CSS',
+    sitare: 4,
+    key: 8
+  },
+  {
+
+    title: 'BOOTSTRAP',
+    sitare: 4,
+    key: 9
   },
 ]
 
